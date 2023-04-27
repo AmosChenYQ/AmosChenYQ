@@ -39,7 +39,7 @@ def main():
 
     result.append(after)
 
-    with open(readme_file, "w") as f:
+    with open("README.md", "w") as f:
         f.write("\n".join(result))
 
 
