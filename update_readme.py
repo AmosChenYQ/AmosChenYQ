@@ -7,7 +7,6 @@ END_FLAG = "<!-- waka-box end -->"
 
 gist_id = os.environ.get("GIST_ID")
 gh_user = os.environ.get("GH_USER")
-readme_file = os.environ.get("README")
 
 
 def main():
@@ -15,7 +14,7 @@ def main():
         f"https://gist.githubusercontent.com/{gh_user}/{gist_id}/raw",
     ).read().decode()
 
-    with open(readme_file) as f:
+    with open("README.md") as f:
         readme = f.read()
 
     start = readme.find(START_FLAG)
