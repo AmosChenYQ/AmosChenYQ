@@ -6,7 +6,7 @@
 - 💬 Talk with me in Mandarin, Hakka, Cantonese, English
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/becb911736b10de673d72f2a472b1e52" target="_blank">📊 Development breakdown of last day</a>
+#### <a href="https://gist.github.com/becb911736b10de673d72f2a472b1e52" target="_blank">📊 Development breakdown of last week</a>
 ```text
 C++        10 mins        ████████████████████▎  96.5%
 INI        21 secs        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
