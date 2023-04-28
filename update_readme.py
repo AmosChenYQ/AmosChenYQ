@@ -29,7 +29,7 @@ def main():
     result = [before]
 
     # title
-    name = "📊 Development breakdown of last day"
+    name = "📊 Development breakdown of last week"
     result.append(f'#### <a href="https://gist.github.com/{gist_id}" target="_blank">{name}</a>')
 
     # content
