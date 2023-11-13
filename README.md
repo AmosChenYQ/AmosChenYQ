@@ -8,7 +8,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/becb911736b10de673d72f2a472b1e52" target="_blank">📊 Development breakdown of last week</a>
 ```text
-C++        1 hr 24 mins   █████████████████████ 100.0%
+C++        1 hr           █████████████████████ 100.0%
 ```
 <!-- waka-box end -->
 
